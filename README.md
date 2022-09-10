@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arianof
-- 👀 I’m interested in AI and Object Oriented programming
-- 🌱 I’m currently learning Object Oriented with C++
+- 👀 I’m interested in AI and Object Oriented programming and web Developing
+- 🌱 I’m currently learning Object Oriented with C++ and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
