@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arianof
-- 👀 I’m interested in AI and Object Oriented programming and web Developing
-- 🌱 I’m currently learning Object Oriented with C++ and Java
+- 👀 I’m interested in AI and Web Developing
+- 🌱 I’m currently learning React and Front-End
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me ... 
 
 <!---
 Arianof/Arianof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
