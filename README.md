@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arian Fathi</h1>
-<h3 align="center">A passionate Cs Student who is into Ml and Software Eng</h3>
+<h3 align="center">A passionate Cs Student who is into Ml and Deep Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianof&label=Profile%20views&color=0e75b6&style=flat" alt="arianof" /> </p>
 
