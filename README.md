@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arian Fathi</h1>
-<h3 align="center">A passionate Cs Student who is into Ml and Deep Learning</h3>
+<h3 align="center">A passionate Cs Student who is into Data Science and Deep Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianof&label=Profile%20views&color=0e75b6&style=flat" alt="arianof" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arianof" alt="arianof" /></a> </p>
 
-- 🌱 I’m currently learning **Ml and Reinforcement learning**
+- 🌱 I’m currently learning **Computer Vision and Graph Neural Networks**
 
-- 💬 Ask me about **React, Typescript, Ml,...**
+- 💬 Ask me about **Deep theorical discussions about ML**
 
 - 📫 How to reach me **Arian.fathi03@gmail.com**
 
