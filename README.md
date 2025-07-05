@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Computer Vision and Graph Neural Networks**
+- 🌱 I’m currently working on Event-based traffic incident prediction via scene graph generation.**
 
-- 💬 Ask me about **Deep theorical discussions about ML**
+- 💬 I welcome new contributions at the intersection of computer vision and other fields.
 
 - 📫 How to reach me **Arian.fathi03@gmail.com**
 
