@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arian Fathi</h1>
-<h3 align="center">A passionate Cs Student who is into event-based vision research and scene graph generation using deep learning.</h3>
+<h3 align="center">Event-Based Vision & Scene Graph Enthusiast</h3>
 
 
 
